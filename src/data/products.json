@@ -1,0 +1,458 @@
+{
+  "sweets": [
+    {
+      "id": "d0",
+      "cat": "Baklawa",
+      "name": "Baklawa de pistacho",
+      "price": 3.5,
+      "img": "/images/d0.webp"
+    },
+    {
+      "id": "d1",
+      "cat": "Baklawa",
+      "name": "Baklawa de merey",
+      "price": 2.5,
+      "img": "/images/d1.webp"
+    },
+    {
+      "id": "d2",
+      "cat": "Baklawa",
+      "name": "Baklawa mixto (masa de cacao)",
+      "price": 3,
+      "img": "/images/d2.webp"
+    },
+    {
+      "id": "d3",
+      "cat": "Baklawa",
+      "name": "Baklawa mixto",
+      "price": 3,
+      "img": "/images/d3.webp"
+    },
+    {
+      "id": "d4",
+      "cat": "Deditos",
+      "name": "Dedito de pistacho",
+      "price": 2.5,
+      "img": "/images/d4.webp"
+    },
+    {
+      "id": "d5",
+      "cat": "Deditos",
+      "name": "Dedito de merey",
+      "price": 1.5,
+      "img": "/images/d5.webp"
+    },
+    {
+      "id": "d6",
+      "cat": "Deditos",
+      "name": "Doulma de merey",
+      "price": 3,
+      "img": "/images/d6.webp"
+    },
+    {
+      "id": "d7",
+      "cat": "Deditos",
+      "name": "Pulsera",
+      "price": 3,
+      "img": "/images/d7.webp"
+    },
+    {
+      "id": "d8",
+      "cat": "Bagash",
+      "name": "Bagash con crema de pistacho (masa de cacao)",
+      "price": 3,
+      "img": "/images/d8.webp"
+    },
+    {
+      "id": "d9",
+      "cat": "Bagash",
+      "name": "Bagash con crema de pistacho",
+      "price": 3,
+      "img": "/images/d9.webp"
+    },
+    {
+      "id": "d10",
+      "cat": "Bagash",
+      "name": "Bagash con merey",
+      "price": 3,
+      "img": "/images/d10.webp"
+    },
+    {
+      "id": "d11",
+      "cat": "Bagash",
+      "name": "Bagash con Nutella",
+      "price": 3,
+      "img": "/images/d11.webp"
+    },
+    {
+      "id": "d12",
+      "cat": "Canolis",
+      "name": "Canoli con crema de avellana",
+      "price": 5,
+      "img": "/images/d12.webp"
+    },
+    {
+      "id": "d13",
+      "cat": "Canolis",
+      "name": "Canoli con crema de pistacho",
+      "price": 5,
+      "img": "/images/d13.webp"
+    },
+    {
+      "id": "d14",
+      "cat": "Canolis",
+      "name": "Canoli con Nutella",
+      "price": 5,
+      "img": "/images/d14.webp"
+    },
+    {
+      "id": "d15",
+      "cat": "Canolis",
+      "name": "Canoli Dubai",
+      "price": 5,
+      "img": "/images/d15.webp"
+    },
+    {
+      "id": "d16",
+      "cat": "Nidos",
+      "name": "Nidos con crema de avellana",
+      "price": 3.5,
+      "img": "/images/d16.webp"
+    },
+    {
+      "id": "d17",
+      "cat": "Nidos",
+      "name": "Nidos con crema de pistacho",
+      "price": 3.5,
+      "img": "/images/d17.webp"
+    },
+    {
+      "id": "d18",
+      "cat": "Nidos",
+      "name": "Nidos con Nutella",
+      "price": 3.5,
+      "img": "/images/d18.webp"
+    },
+    {
+      "id": "d19",
+      "cat": "Nidos",
+      "name": "Nidos con pistacho",
+      "price": 3.5,
+      "img": "/images/d19.webp"
+    },
+    {
+      "id": "d20",
+      "cat": "Mamul",
+      "name": "Mamul de dátil",
+      "price": 4,
+      "img": "/images/d20.webp"
+    },
+    {
+      "id": "d21",
+      "cat": "Mamul",
+      "name": "Mamul de nueces",
+      "price": 4,
+      "img": "/images/d21.webp"
+    },
+    {
+      "id": "d22",
+      "cat": "Mamul",
+      "name": "Mamul de pistacho",
+      "price": 4,
+      "img": "/images/d22.webp"
+    },
+    {
+      "id": "d23",
+      "cat": "Galletas",
+      "name": "Graybe",
+      "price": 0.5,
+      "img": "/images/d23.webp"
+    },
+    {
+      "id": "d24",
+      "cat": "Galletas",
+      "name": "Barazek",
+      "price": 0.5,
+      "img": "/images/d24.webp"
+    },
+    {
+      "id": "d25",
+      "cat": "Dátil",
+      "name": "Tamrie",
+      "price": 5,
+      "img": "/images/d25.webp"
+    },
+    {
+      "id": "d26",
+      "cat": "Dátil",
+      "name": "Dátil de almendra",
+      "price": 4,
+      "img": "/images/d26.webp"
+    },
+    {
+      "id": "d27",
+      "cat": "Dátil",
+      "name": "Dátil de pistacho",
+      "price": 4,
+      "img": "/images/d27.webp"
+    },
+    {
+      "id": "d28",
+      "cat": "Otros",
+      "name": "Namura",
+      "price": 3.5,
+      "img": "/images/d28.webp"
+    },
+    {
+      "id": "d29",
+      "cat": "Otros",
+      "name": "Canasta",
+      "price": 2.5,
+      "img": "/images/d29.webp"
+    },
+    {
+      "id": "d30",
+      "cat": "Otros",
+      "name": "Acia de pistacho",
+      "price": 4,
+      "img": "/images/d30.webp"
+    },
+    {
+      "id": "d31",
+      "cat": "Otros",
+      "name": "Warbat",
+      "price": 5,
+      "img": "/images/d31.webp"
+    },
+    {
+      "id": "d32",
+      "cat": "Chocolate Dubai",
+      "name": "Chocolate Dubai",
+      "price": [
+        8,
+        10,
+        20,
+        25
+      ],
+      "img": "/images/d32.webp"
+    }
+  ],
+  "foods": [
+    {
+      "id": "f0",
+      "cat": "Promos",
+      "img": "/images/f0.webp",
+      "name": "Combo individual",
+      "price": 12,
+      "desc": "Un shawarma, una ración de papas y un Nestea.",
+      "opts": [],
+      "cut": false
+    },
+    {
+      "id": "f1",
+      "cat": "Promos",
+      "img": "/images/f1.webp",
+      "name": "Combo dúo",
+      "price": 20,
+      "desc": "Dos shawarmas, papas y dos Nestea.",
+      "opts": [],
+      "cut": false
+    },
+    {
+      "id": "f2",
+      "cat": "Promos",
+      "img": "/images/f2.webp",
+      "name": "Combo family",
+      "price": 28,
+      "desc": "Tres shawarmas, dos raciones de papas y tres Nestea.",
+      "opts": [],
+      "cut": false
+    },
+    {
+      "id": "f3",
+      "cat": "Shawarmas",
+      "img": "/images/f3.webp",
+      "name": "Shawarma clásico",
+      "price": 10,
+      "desc": "Lechuga, tomate, papas, pepinillo, cebolla, perejil, crema de ajo, tarator y salsa de la casa.",
+      "opts": [
+        [
+          "Proteína",
+          [
+            "Pollo",
+            "Carne"
+          ]
+        ]
+      ],
+      "cut": true
+    },
+    {
+      "id": "f4",
+      "cat": "Shawarmas",
+      "img": "/images/f4.webp",
+      "name": "Shawarma sirio",
+      "price": 12,
+      "desc": "Papas, pepinillo, crema de ajo y tarator, con una ración de papas.",
+      "opts": [
+        [
+          "Proteína",
+          [
+            "Pollo",
+            "Carne",
+            "Mixto"
+          ]
+        ],
+        [
+          "Papas",
+          [
+            "Fritas",
+            "Al airfryer"
+          ]
+        ]
+      ],
+      "cut": true
+    },
+    {
+      "id": "f5",
+      "cat": "Shawarmas",
+      "img": "/images/f5.webp",
+      "name": "Shawarma cheese",
+      "price": 14,
+      "desc": "Shawarma tipo pizza con queso mozzarella, cebolla salteada, champiñones y crema de ajo, con una ración de papas.",
+      "opts": [
+        [
+          "Proteína",
+          [
+            "Pollo",
+            "Carne",
+            "Mixto"
+          ]
+        ],
+        [
+          "Papas",
+          [
+            "Fritas",
+            "Al airfryer"
+          ]
+        ]
+      ],
+      "cut": true
+    },
+    {
+      "id": "f6",
+      "cat": "Sándwiches",
+      "img": "/images/f6.webp",
+      "name": "Sándwich de falafel",
+      "price": 8,
+      "desc": "Pan árabe relleno de falafel, lechuga, tomate, nabos encurtidos, perejil, yerbabuena, tarator y salsa especial.",
+      "opts": [],
+      "cut": true
+    },
+    {
+      "id": "f7",
+      "cat": "Sándwiches",
+      "img": "/images/f7.webp",
+      "name": "Sándwich de kebab",
+      "price": 10,
+      "desc": "Pan árabe relleno de kebab, perejil, cebolla, tomate, tarator y condimento especial.",
+      "opts": [],
+      "cut": true
+    },
+    {
+      "id": "f8",
+      "cat": "Sándwiches",
+      "img": "/images/f8.webp",
+      "name": "Cheese kebab rolls",
+      "price": 12,
+      "desc": "Pan árabe relleno de kebab y queso mozzarella con crema de ajo, cubierto de salsa especial y frutos secos.",
+      "opts": [],
+      "cut": true
+    },
+    {
+      "id": "f9",
+      "cat": "Platos y entradas",
+      "img": "/images/f9.webp",
+      "name": "Plato mixto",
+      "price": 28,
+      "desc": "Un pincho de pollo, uno de carne, un kebab, ensalada, las tres cremas, dos kibbe, dos falafel, tabaquitos y pan árabe frito.",
+      "opts": [
+        [
+          "Ensalada",
+          [
+            "Tabule",
+            "Fatoush"
+          ]
+        ]
+      ],
+      "cut": true
+    },
+    {
+      "id": "f10",
+      "cat": "Platos y entradas",
+      "img": "/images/f10.webp",
+      "name": "Kibbe y falafel",
+      "price": 14,
+      "desc": "Kibbe y falafel con crema para acompañar.",
+      "opts": [],
+      "cut": true
+    },
+    {
+      "id": "f11",
+      "cat": "Platos y entradas",
+      "img": "/images/f11.webp",
+      "name": "Tabaquitos de uva",
+      "price": 10,
+      "desc": "Hojas de parra rellenas, con pan árabe, limón y crema.",
+      "opts": [],
+      "cut": true
+    },
+    {
+      "id": "f12",
+      "cat": "Platos y entradas",
+      "img": "/images/f12.webp",
+      "name": "Hummus con carne",
+      "price": 10,
+      "desc": "Hummus cubierto con carne y frutos secos, con pan árabe.",
+      "opts": [],
+      "cut": true
+    },
+    {
+      "id": "f13",
+      "cat": "Platos y entradas",
+      "img": "/images/f13.webp",
+      "name": "Trío de cremas",
+      "price": 8,
+      "desc": "Tres cremas árabes con pan árabe.",
+      "opts": [],
+      "cut": true
+    },
+    {
+      "id": "f14",
+      "cat": "Platos y entradas",
+      "img": "/images/f14.webp",
+      "name": "Tabule",
+      "price": 6,
+      "desc": "Ensalada fresca de perejil, tomate y trigo.",
+      "opts": [],
+      "cut": true
+    }
+  ],
+  "sweetCats": [
+    "Baklawa",
+    "Deditos",
+    "Bagash",
+    "Canolis",
+    "Nidos",
+    "Mamul",
+    "Galletas",
+    "Dátil",
+    "Otros",
+    "Chocolate Dubai"
+  ],
+  "foodCats": [
+    "Promos",
+    "Shawarmas",
+    "Sándwiches",
+    "Platos y entradas"
+  ]
+}
